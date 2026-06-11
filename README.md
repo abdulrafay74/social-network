@@ -2,7 +2,7 @@
 - Frontend: HTML, CSS, JavaScript
 - Backend: NODE.JS
 - Database: MONGO-DB
-
+```
 ## Project Structure
 socialnetwork/         
 ├── README.md
